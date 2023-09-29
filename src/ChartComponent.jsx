@@ -45,7 +45,7 @@ const ChartComponent = () => {
                         {
                             label: 'Value',
                             data: chartData.map(item => item.y),
-                            borderColor: 'rgb(75, 192, 192)',
+                            borderColor: '#91b8ff',
                             fill: false,
                         },
                     ],
